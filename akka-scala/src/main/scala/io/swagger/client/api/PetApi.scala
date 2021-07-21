@@ -1,6 +1,6 @@
 /**
  * Swagger Petstore
- * This is a sample Petstore server from SwaggerHub 
+ * This is a sample Petstore server from SwaggerHub updated on July 21, 2021 
  *
  * OpenAPI spec version: 1.0.0
  * Contact: apiteam@swagger.io
